@@ -1,3 +1,13 @@
 # Team_Rocket
 
-Proyecto Integrador
+## Proyecto Integrador
+
+Contribuciones en python:
+- Luciana Ferace USUARIO: Looser3058
+- Fabrizio Chavez USUARIO: KAIFCH
+- Lorena Soledad Agüero USUARIO: LolyAguero
+- Rocío Magali Dutto USUARIO: rocidutto
+
+  Contribuciones en base de datos:
+  - Agustín Ammazzagatti USUARIO: ammazzagattiagustin
+  - Luciano Javier Arevalo USUARIO: Luciano-Arevalo
