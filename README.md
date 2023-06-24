@@ -7,7 +7,7 @@ Contribuciones en python:
 - Fabrizio Chavez USUARIO: KAIFCH
 - Lorena Soledad Agüero USUARIO: LolyAguero
 - Rocío Magali Dutto USUARIO: rocidutto
-- Audicio Claudio Nicolas USUARIO: NicolasAudicio
+- Nicolas Audicio Claudio USUARIO: NicolasAudicio
 
 Contribuciones en base de datos:
 - Agustín Ammazzagatti USUARIO: ammazzagattiagustin
