@@ -26,19 +26,3 @@ def buscar_ley_por_palabras(numero_ley):
     filas = cmd.fetchall()
     print(filas)
 
-
-# cmd.execute(
-#     "UPDATE leyes SET Nombre_Ley = 'Ley de Teletrabajo' WHERE IDnumero_ley = 27555")
-# conexion.commit()
-# print("Registro modificado de manera exitosa")
-
-# cmd.execute("DELETE FROM leyes WHERE IDnumero_ley = 20445")
-# conexion.commit()
-# print("Registro eliminado de manera exitosa")
-
-# cmd.execute("select * from leyes")
-
-# filas = cmd.fetchall()
-
-# for x in filas:
-#     print(x)
